@@ -1,4 +1,5 @@
 <template>
+  <PostList />
   <ModelForm />
   <ClassBind />
   <ExampleFor />
@@ -18,6 +19,7 @@ import ExampleSelective from "./components/ExampleSelective.vue";
 import ExampleFor from "./components/ExampleFor.vue";
 import ClassBind from "./components/ClassBind.vue";
 import ModelForm from "./components/ModelForm.vue";
+import PostList from "./components/PostList.vue";
 </script>
 
 <style></style>
